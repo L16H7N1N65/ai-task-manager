@@ -8,7 +8,7 @@ AI Task Manager is a full-stack application that allows users to generate and ma
 
 ### Running Locally
 
-#### 1. Install and Run Ollama (Local AI Model)
+#### 1. Install and Run Ollama (Local AI Model) for Linux
 
 1. **Install Ollama:**
    ```bash
